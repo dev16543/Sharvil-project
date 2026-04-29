@@ -25,7 +25,7 @@ export default function Layout() {
       <header className={`header ${isLanding ? 'header-landing' : ''}`}>
         <div className="container header-inner">
           <Link to={logoTarget} className="logo">
-            Confidence<span>AI</span>
+            Persona<span>AI</span>
           </Link>
           <nav className="nav">
             {isLoggedIn && (
@@ -61,7 +61,7 @@ export default function Layout() {
       <footer className="footer">
         <div className="container">
           <p>AI-Powered Real-Time Confidence Monitoring &amp; Enhancement System — Frontend prototype. Not for clinical diagnosis.</p>
-          <p className="footer-credit">Developed by Bhoumik Rajput</p>
+          <p className="footer-credit">Developed by Sharvil Maind</p>
         </div>
       </footer>
     </div>
