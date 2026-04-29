@@ -1,4 +1,4 @@
-# AI-Powered Confidence Monitoring & Enhancement — Frontend
+# PersonaAI-Powered Confidence Monitoring & Enhancement — Frontend
 
 Frontend-only, hardcoded React prototype for the M.Tech project. No backend; for testing and user experience.
 

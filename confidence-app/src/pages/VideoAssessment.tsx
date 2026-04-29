@@ -75,7 +75,7 @@ export default function VideoAssessment() {
   return (
     <div className="video-assessment page">
       <div className="container">
-        <h1>Stage 2: AI Video Assessment (Optional)</h1>
+        <h1>Stage 2: PersonaAI Video Assessment (Optional)</h1>
         <p className="intro">
           Respond to each prompt on camera while we simulate voice, posture, and expression analysis. This is a guided frontend demo, so the final result is a mock confidence summary.
         </p>
